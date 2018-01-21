@@ -8,7 +8,9 @@ This is for repairing problem at boot
 ## Installing Netbeans
 
 Convert to installer -first navigate to location of file-
+
 chmod +x netbeans-8.2-linux.sh
 
 Install
+
 ./netbeans-8.2-linux.sh
