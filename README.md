@@ -14,3 +14,7 @@ chmod +x netbeans-8.2-linux.sh
 Install
 
 ./netbeans-8.2-linux.sh
+
+## Free memory
+
+```sudo sysctl -w vm.drop_caches=3```
