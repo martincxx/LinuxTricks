@@ -18,3 +18,8 @@ Install
 ## Free memory
 
 ```sudo sysctl -w vm.drop_caches=3```
+
+
+## Install Postman
+
+[Instructions here](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)
