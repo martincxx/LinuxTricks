@@ -23,3 +23,9 @@ Install
 ## Install Postman
 
 [Instructions here](https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates)
+
+## Install woeusb
+```sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt update
+sudo apt install woeusb
+```
