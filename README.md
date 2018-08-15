@@ -31,7 +31,8 @@ sudo apt install woeusb
 ```
 #Check ports in use
 
-```sudo lsof -i
+```
+sudo lsof -i
 sudo netstat -lptu
 sudo netstat -tulpn
 ```
