@@ -36,3 +36,8 @@ sudo lsof -i
 sudo netstat -lptu
 sudo netstat -tulpn
 ```
+
+##Check your linux distro and version
+```
+cat /etc/*-release
+```
