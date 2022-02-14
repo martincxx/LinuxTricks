@@ -41,3 +41,8 @@ sudo netstat -tulpn
 ```
 cat /etc/*-release
 ```
+
+##Install deb package
+```
+sudo dpkg -i package_file.deb
+```
