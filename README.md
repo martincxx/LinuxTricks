@@ -46,3 +46,10 @@ cat /etc/*-release
 ```
 sudo dpkg -i package_file.deb
 ```
+
+## Add pipenv to $PATH
+```
+echo 'export PIPENV_HOME="$HOME/.local/bin"'
+echo 'export PATH="$PIPENV_HOME:$PATH"' | sudo tee -a ~/.profile
+source ~/.profile 
+```
